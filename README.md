@@ -12,6 +12,8 @@ I'm a ***Security Expert*** specializing in the architecture and development of 
 
 I have experience in:
 
+- Amazon Web Services (AWS)
+- Infrastructure as Code (CloudFormation and Terraform)
 - Cryptography
 - Hardware Security Modules (HSMs)
 - Tokenization
@@ -41,14 +43,14 @@ You can reach me out on the following platforms.
 <br/>
 <br/>
 <p align="center">
-  <a href="https://www.instagram.com/jribeironetto/" target="_blank" style="margin-right: 10px">
+  <a href="https://www.instagram.com/jribeironetto/" target="_blank" style="margin-right: 15px">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://res.cloudinary.com/jnetto/image/upload/v1654178152/mineiro/assets/images/social/social-instagram.png">
       <source media="(prefers-color-scheme: light)" srcset="https://res.cloudinary.com/jnetto/image/upload/v1654178152/mineiro/assets/images/social/social-instagram-stone.png">
       <img alt="Instagram" src="https://res.cloudinary.com/jnetto/image/upload/v1654178152/mineiro/assets/images/social/social-instagram.png" width="60" />
     </picture>
   </a>
-  <a href="https://www.linkedin.com/in/jribeironetto/" target="_blank" style="margin-right: 10px">
+  <a href="https://www.linkedin.com/in/jribeironetto/" target="_blank" style="margin-right: 15px">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://res.cloudinary.com/jnetto/image/upload/v1654178152/mineiro/assets/images/social/social-linkedin.png">
       <source media="(prefers-color-scheme: light)" srcset="https://res.cloudinary.com/jnetto/image/upload/v1654178152/mineiro/assets/images/social/social-linkedin-stone.png">
