@@ -34,8 +34,6 @@ Favorite programming languages:
 
 Currently, I work at [Itau Unibanco S/A](https://www.itau.com.br).
  
-<br/>
-<br/>
 
 ## Connect with me
 <br/>
@@ -65,8 +63,7 @@ You can reach me out on the following platforms.
     </picture>
   </a>
 </p>
-<br/>
-<br/>
+
 
 ## Certifications
 <br/>
