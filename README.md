@@ -45,23 +45,23 @@ You can reach me out on the following platforms.
 <p align="center">
   <a href="https://www.instagram.com/jribeironetto/" target="_blank" style="margin-right: 10px">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="assets/images/social/social-instagram.png">
-      <source media="(prefers-color-scheme: light)" srcset="assets/images/social/social-instagram.png">
-      <img alt="Instagram" src="assets/images/social/social-instagram.png" width="60" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://res.cloudinary.com/jnetto/image/upload/v1654178152/mineiro/assets/images/social/social-instagram.png">
+      <source media="(prefers-color-scheme: light)" srcset="https://res.cloudinary.com/jnetto/image/upload/v1654178152/mineiro/assets/images/social/social-instagram-stone.png">
+      <img alt="Instagram" src="https://res.cloudinary.com/jnetto/image/upload/v1654178152/mineiro/assets/images/social/social-instagram.png" width="60" />
     </picture>
   </a>
   <a href="https://www.linkedin.com/in/jribeironetto/" target="_blank" style="margin-right: 10px">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="assets/images/social/social-linkedin.png">
-      <source media="(prefers-color-scheme: light)" srcset="assets/images/social/social-linkedin.png">
-      <img alt="LinkedIn" src="assets/images/social/social-linkedin.png" width="60" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://res.cloudinary.com/jnetto/image/upload/v1654178152/mineiro/assets/images/social/social-linkedin.png">
+      <source media="(prefers-color-scheme: light)" srcset="https://res.cloudinary.com/jnetto/image/upload/v1654178152/mineiro/assets/images/social/social-linkedin-stone.png">
+      <img alt="LinkedIn" src="https://res.cloudinary.com/jnetto/image/upload/v1654178152/mineiro/assets/images/social/social-linkedin-stone.png" width="60" />
     </picture>
   </a>
   <a href="https://twitter.com/jribeironetto" target="_blank">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="assets/images/social/social-twitter.png">
-      <source media="(prefers-color-scheme: light)" srcset="assets/images/social/social-twitter.png">
-      <img alt="Twitter" src="assets/images/social/social-twitter.png" width="60" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://res.cloudinary.com/jnetto/image/upload/v1654178152/mineiro/assets/images/social/social-twitter.png">
+      <source media="(prefers-color-scheme: light)" srcset="https://res.cloudinary.com/jnetto/image/upload/v1654178152/mineiro/assets/images/social/social-twitter-stone.png">
+      <img alt="Twitter" src="https://res.cloudinary.com/jnetto/image/upload/v1654178152/mineiro/assets/images/social/social-twitter-stone.png" width="60" />
     </picture>
   </a>
 </p>
