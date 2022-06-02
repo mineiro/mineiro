@@ -74,18 +74,18 @@ Here's a list of some badges recently acquired.
 <br/>
 <p align="center">
   <a href="https://www.credly.com/badges/a6685964-2885-4ffc-99bf-6f02a7c783a3/public_url" target="_blank">
-    <img src="assets/images/certifications/badges/aws-certified-cloud-practitioner.png" width="80" alt="AWS Certified Cloud Practitioner" />
+    <img src="assets/images/certifications/badges/aws-certified-cloud-practitioner.png" width="100" alt="AWS Certified Cloud Practitioner" />
   </a>
   <a href="https://www.credly.com/badges/1899bea2-baba-4961-aba6-aadabcf4310a/public_url" target="_blank">
-    <img src="assets/images/certifications/badges/aws-certified-solutions-architect-associate.png" width="80" alt="AWS Certified Solutions Architect – Associate" />
+    <img src="assets/images/certifications/badges/aws-certified-solutions-architect-associate.png" width="100" alt="AWS Certified Solutions Architect – Associate" />
   </a>
   <a href="https://www.credly.com/badges/edd0a5ec-e6fd-4ec5-a07e-c1c2c4c348c0/public_url" target="_blank">
-    <img src="assets/images/certifications/badges/aws-certified-security-specialty.png" width="80" alt="AWS Certified Security – Specialty" />
+    <img src="assets/images/certifications/badges/aws-certified-security-specialty.png" width="100" alt="AWS Certified Security – Specialty" />
   </a>
   <a href="https://www.credly.com/badges/ca1b9b3d-7eb7-4fa2-837e-57f06e74367d/public_url" target="_blank">
-    <img src="assets/images/certifications/badges/hashicorp-certified-terraform-associate.png" width="80" alt="HashiCorp Certified: Terraform Associate" />
+    <img src="assets/images/certifications/badges/hashicorp-certified-terraform-associate.png" width="100" alt="HashiCorp Certified: Terraform Associate" />
   </a>
   <a href="https://www.credly.com/badges/05f60ed3-eaf9-4fe2-ba5f-a76a8f86f451/public_url" target="_blank">
-    <img src="assets/images/certifications/badges/hashicorp-certified-vault-associate.png" width="80" alt="HashiCorp Certified: Vault Associate" />
+    <img src="assets/images/certifications/badges/hashicorp-certified-vault-associate.png" width="100" alt="HashiCorp Certified: Vault Associate" />
   </a>
 </p>
