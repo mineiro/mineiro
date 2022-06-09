@@ -79,6 +79,9 @@ Here's a list of some badges recently acquired.
   <a href="https://www.credly.com/badges/1899bea2-baba-4961-aba6-aadabcf4310a/public_url" target="_blank">
     <img src="assets/images/certifications/badges/aws-certified-solutions-architect-associate.png" width="100" alt="AWS Certified Solutions Architect – Associate" />
   </a>
+  <a href="https://www.credly.com/badges/02977ca9-9ed0-4085-84d7-694455fce55c/public_url" target="_blank">
+    <img src="assets/images/certifications/badges/aws-certified-solutions-architect-professional.png" width="100" alt="AWS Certified Solutions Architect – Professional" />
+  </a>
   <a href="https://www.credly.com/badges/edd0a5ec-e6fd-4ec5-a07e-c1c2c4c348c0/public_url" target="_blank">
     <img src="assets/images/certifications/badges/aws-certified-security-specialty.png" width="100" alt="AWS Certified Security – Specialty" />
   </a>
