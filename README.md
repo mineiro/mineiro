@@ -74,6 +74,9 @@ Here's a list of some badges recently acquired.
 <br/>
 <p align="center">
   <a href="https://www.credly.com/badges/a6685964-2885-4ffc-99bf-6f02a7c783a3/public_url" target="_blank">
+    <img src="assets/images/certifications/badges/certificate-of-cloud-security-knowledge-v-4.png" width="100" alt="Certificate of Cloud Security Knowledge v.4" />
+  </a>
+  <a href="https://www.credly.com/badges/a6685964-2885-4ffc-99bf-6f02a7c783a3/public_url" target="_blank">
     <img src="assets/images/certifications/badges/aws-certified-cloud-practitioner.png" width="100" alt="AWS Certified Cloud Practitioner" />
   </a>
   <a href="https://www.credly.com/badges/1899bea2-baba-4961-aba6-aadabcf4310a/public_url" target="_blank">
