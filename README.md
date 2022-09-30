@@ -13,6 +13,7 @@ I'm a ***Security Expert*** specializing in the architecture and development of 
 I have experience in:
 
 - Amazon Web Services (AWS)
+- Google Cloud Plarform (GCP)
 - Infrastructure as Code (CloudFormation and Terraform)
 - Cryptography
 - Hardware Security Modules (HSMs)
@@ -93,5 +94,10 @@ Here's a list of some badges recently acquired.
   </a>
   <a href="https://www.credly.com/badges/05f60ed3-eaf9-4fe2-ba5f-a76a8f86f451/public_url" target="_blank">
     <img src="assets/images/certifications/badges/hashicorp-certified-vault-associate.png" width="100" alt="HashiCorp Certified: Vault Associate" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://www.credential.net/0d49cbcf-c95c-4ab1-b8e9-870ed225fb17" target="_blank">
+    <img src="assets/images/certifications/badges/google-cloud-associate-cloud-engineer.png" width="100" alt="Googgle Cloud Certified Associate Cloud Engineer" />
   </a>
 </p>
