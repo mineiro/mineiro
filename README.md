@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://mineiro.dev">
-    <img width="200" src="assets/images/mineiro.png" alt="Mineiro" />
+    <img width="200" src="assets/images/logo.svg" alt="Mineiro" />
   </a>
 </p>
 <br/>
