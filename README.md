@@ -8,7 +8,7 @@
 <br/>
 <br/>
 
-I'm a ***Security Expert*** specializing in the architecture and development of Cloud, Compliance, Identity, Security Management, and Infrastructure solutions.
+I'm a **_Security Expert_** specializing in the architecture and development of Cloud, Compliance, Identity, Security Management, and Infrastructure solutions.
 
 I have experience in:
 
@@ -33,12 +33,12 @@ Favorite programming languages:
 - Javascript (Node.js)
 - Python
 - Ruby
-- Shell 
+- Shell
 
 Currently, I work at [Itau Unibanco S/A](https://www.itau.com.br).
- 
 
 ## Connect with me
+
 <br/>
 You can reach me out on the following platforms.
 <br/>
@@ -67,13 +67,16 @@ You can reach me out on the following platforms.
   </a>
 </p>
 
-
 ## Certifications
+
 <br/>
 Here's a list of some badges recently acquired.
 <br/>
 <br/>
 <p align="center">
+  <a href="https://www.credly.com/badges/2cc9b0ad-f308-4a19-97c5-d44eef2a24c6" target="_blank">
+    <img src="assets/images/certifications/badges/cissp.png" width="100" alt="Certified Information Systems Security Professional (CISSP)" />
+  </a>
   <a href="https://www.credly.com/badges/a6685964-2885-4ffc-99bf-6f02a7c783a3/public_url" target="_blank">
     <img src="assets/images/certifications/badges/certificate-of-cloud-security-knowledge-v-4.png" width="100" alt="Certificate of Cloud Security Knowledge v.4" />
   </a>
