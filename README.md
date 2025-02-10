@@ -73,34 +73,58 @@ You can reach me out on the following platforms.
 Here's a list of some badges recently acquired.
 <br/>
 <br/>
-<p align="center">
-  <a href="https://www.credly.com/badges/2cc9b0ad-f308-4a19-97c5-d44eef2a24c6" target="_blank">
-    <img src="assets/images/certifications/badges/cissp.png" width="100" alt="Certified Information Systems Security Professional (CISSP)" />
-  </a>
-  <a href="https://www.credly.com/badges/a6685964-2885-4ffc-99bf-6f02a7c783a3/public_url" target="_blank">
-    <img src="assets/images/certifications/badges/certificate-of-cloud-security-knowledge-v-4.png" width="100" alt="Certificate of Cloud Security Knowledge v.4" />
-  </a>
-  <a href="https://www.credly.com/badges/a6685964-2885-4ffc-99bf-6f02a7c783a3/public_url" target="_blank">
-    <img src="assets/images/certifications/badges/aws-certified-cloud-practitioner.png" width="100" alt="AWS Certified Cloud Practitioner" />
-  </a>
-  <a href="https://www.credly.com/badges/1899bea2-baba-4961-aba6-aadabcf4310a/public_url" target="_blank">
-    <img src="assets/images/certifications/badges/aws-certified-solutions-architect-associate.png" width="100" alt="AWS Certified Solutions Architect – Associate" />
-  </a>
-  <a href="https://www.credly.com/badges/02977ca9-9ed0-4085-84d7-694455fce55c/public_url" target="_blank">
-    <img src="assets/images/certifications/badges/aws-certified-solutions-architect-professional.png" width="100" alt="AWS Certified Solutions Architect – Professional" />
-  </a>
-  <a href="https://www.credly.com/badges/edd0a5ec-e6fd-4ec5-a07e-c1c2c4c348c0/public_url" target="_blank">
-    <img src="assets/images/certifications/badges/aws-certified-security-specialty.png" width="100" alt="AWS Certified Security – Specialty" />
-  </a>
-  <a href="https://www.credly.com/badges/ca1b9b3d-7eb7-4fa2-837e-57f06e74367d/public_url" target="_blank">
-    <img src="assets/images/certifications/badges/hashicorp-certified-terraform-associate.png" width="100" alt="HashiCorp Certified: Terraform Associate" />
-  </a>
-  <a href="https://www.credly.com/badges/05f60ed3-eaf9-4fe2-ba5f-a76a8f86f451/public_url" target="_blank">
-    <img src="assets/images/certifications/badges/hashicorp-certified-vault-associate.png" width="100" alt="HashiCorp Certified: Vault Associate" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://www.credential.net/0d49cbcf-c95c-4ab1-b8e9-870ed225fb17" target="_blank">
-    <img src="assets/images/certifications/badges/google-cloud-associate-cloud-engineer.png" width="100" alt="Googgle Cloud Certified Associate Cloud Engineer" />
-  </a>
-</p>
+
+<div style="display: flex; align-items: flex-start; align: center;">
+  <table align="center">
+    <tr>
+      <td align="center" width="90">
+        <a href="https://www.credly.com/badges/2cc9b0ad-f308-4a19-97c5-d44eef2a24c6" target="_blank">
+          <img src="assets/images/certifications/badges/cissp.png" width="100" alt="Certified Information Systems Security Professional (CISSP)" />
+        </a>
+        <br/>CISSP
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="90">
+        <a href="https://www.credly.com/badges/a6685964-2885-4ffc-99bf-6f02a7c783a3/public_url" target="_blank">
+          <img src="assets/images/certifications/badges/certificate-of-cloud-security-knowledge-v-4.png" width="100" alt="Certificate of Cloud Security Knowledge v.4" />
+        </a>
+        <br/>CCSK
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="90">
+        <a href="https://www.credly.com/badges/a6685964-2885-4ffc-99bf-6f02a7c783a3/public_url" target="_blank">
+          <img src="assets/images/certifications/badges/aws-certified-cloud-practitioner.png" width="100" alt="AWS Certified Cloud Practitioner" />
+        </a>
+        <br/>AWSCCP
+      </td>
+      <td align="center" width="90">
+        <a href="https://www.credly.com/badges/1899bea2-baba-4961-aba6-aadabcf4310a/public_url" target="_blank">
+          <img src="assets/images/certifications/badges/aws-certified-solutions-architect-associate.png" width="100" alt="AWS Certified Solutions Architect – Associate" />
+        </a>
+        <br/>AWSCSAA
+      </td>
+      <td align="center" width="90">
+        <a href="https://www.credly.com/badges/02977ca9-9ed0-4085-84d7-694455fce55c/public_url" target="_blank">
+          <img src="assets/images/certifications/badges/aws-certified-solutions-architect-professional.png" width="100" alt="AWS Certified Solutions Architect – Professional" />
+        </a>
+        <br/>AWSCSAP
+      </td>
+      <td align="center" width="90">
+        <a href="https://www.credly.com/badges/edd0a5ec-e6fd-4ec5-a07e-c1c2c4c348c0/public_url" target="_blank">
+          <img src="assets/images/certifications/badges/aws-certified-security-specialty.png" width="100" alt="AWS Certified Security – Specialty" />
+        </a>
+        <br/>AWSCSS
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="90">
+        <a href="https://www.credential.net/0d49cbcf-c95c-4ab1-b8e9-870ed225fb17" target="_blank">
+          <img src="assets/images/certifications/badges/google-cloud-associate-cloud-engineer.png" width="100" alt="Googgle Cloud Certified Associate Cloud Engineer" />
+        </a>
+        <br/>GCPCCE
+      </td>
+    </tr>
+  </table>
+</div>
