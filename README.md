@@ -126,5 +126,19 @@ Here's a list of some badges recently acquired.
         <br/>GCPCCE
       </td>
     </tr>
+    <tr>
+      <td align="center" width="90">
+        <a href="https://www.credly.com/badges/ca1b9b3d-7eb7-4fa2-837e-57f06e74367d/public_url" target="_blank">
+          <img src="assets/images/certifications/badges/hashicorp-certified-terraform-associate.png" width="100" alt="HashiCorp Certified: Terraform Associate" />
+        </a>
+        <br/>HCTA
+      </td>
+      <td align="center" width="90">
+        <a href="https://www.credly.com/badges/05f60ed3-eaf9-4fe2-ba5f-a76a8f86f451/public_url" target="_blank">
+          <img src="assets/images/certifications/badges/hashicorp-certified-vault-associate.png" width="100" alt="HashiCorp Certified: Vault Associate" />
+        </a>
+        <br/>HCVA
+      </td>
+    </tr>
   </table>
 </div>
